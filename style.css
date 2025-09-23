@@ -2,7 +2,7 @@
 body {
   margin: 0;
   font-family: 'Times New Roman', serif;
-  background-image: url('fondo-pc2.png'); /* fondo PC */
+  background-image: url('fondo-pc2.png'); /* fondo PC actualizado */
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -30,7 +30,7 @@ body {
 .textos .link {
   font-size: 1.5rem;
   text-decoration: underline;
-  color: white;
+  color: #00ffff; /* azul cian */
   cursor: pointer;
 }
 
@@ -61,6 +61,8 @@ body {
     text-align: center;
     color: white;
     text-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+    opacity: 1;
+    animation: none;
   }
 
   .textos h2 {
@@ -73,6 +75,6 @@ body {
   .textos .link {
     font-size: 5vw;
     text-decoration: underline;
-    color: white;
+    color: #00ffff; /* azul cian */
   }
 }
