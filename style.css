@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  font-family: 'Times New Roman', serif;
+  background-image: url('images/fondo-pc.png');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center; /* centra horizontal */
+  align-items: center;    /* centra vertical */
+  text-align: center;
+}
+
+.textos h1, .textos h2, .textos .link {
+  color: white;
+  text-shadow: 2px 2px 4px black; /* contorno negro */
+  margin: 10px 0;
+}
+
+.textos h1 {
+  font-size: 3rem;
+}
+
+.textos h2 {
+  font-size: 2rem;
+}
+
+.textos .link {
+  font-size: 1.5rem;
+  text-decoration: underline;
+  color: white;
+  cursor: pointer;
+}
+
+.textos .link:hover {
+  color: #ff0055;
+}
