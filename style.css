@@ -1,3 +1,4 @@
+/* Cuerpo de la página */
 body {
   margin: 0;
   font-family: 'Times New Roman', serif;
@@ -11,6 +12,7 @@ body {
   text-align: center;
 }
 
+/* Textos centrados */
 .textos h1, .textos h2, .textos .link {
   color: white;
   text-shadow: 2px 2px 4px black; /* contorno negro */
