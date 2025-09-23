@@ -2,7 +2,7 @@
 body {
   margin: 0;
   font-family: 'Times New Roman', serif;
-  background-image: url('fondo-pc.png'); /* fondo en la raíz */
+  background-image: url('fondo-pc2.png'); /* fondo en la raíz */
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -37,3 +37,4 @@ body {
 .textos .link:hover {
   color: #ff0055;
 }
+
