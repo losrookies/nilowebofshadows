@@ -42,7 +42,7 @@ body {
 /* Ajustes para móviles */
 @media (max-width: 768px) {
   body {
-    background-image: url("fondo-movil.png"); /* fondo móvil */
+    background-image: url("fondo-movil2.png"); /* fondo móvil */
     background-repeat: no-repeat;
     background-position: center top;
     background-size: contain;
@@ -79,3 +79,4 @@ body {
     color: #00ffff !important; /* azul cian con prioridad en móvil */
   }
 }
+
