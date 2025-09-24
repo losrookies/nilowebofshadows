@@ -2,7 +2,7 @@
 body {
   margin: 0;
   font-family: 'Times New Roman', serif;
-  background-image: url('fondo-pc2.png'); /* fondo PC actualizado */
+  background-image: url('fondo-pc3.png'); /* fondo PC actualizado */
   background-size: cover;
   background-position: center;
   height: 100vh;
@@ -42,7 +42,7 @@ body {
 /* Ajustes para móviles */
 @media (max-width: 768px) {
   body {
-    background-image: url("fondo-movil2.png"); /* fondo móvil */
+    background-image: url("fondo-movil3.png"); /* fondo móvil */
     background-repeat: no-repeat;
     background-position: center top;
     background-size: contain;
@@ -79,4 +79,5 @@ body {
     color: #00ffff !important; /* azul cian con prioridad en móvil */
   }
 }
+
 
